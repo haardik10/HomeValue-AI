@@ -36,7 +36,8 @@ Each property is an object like:
   "parking": true,
   "swimmingPool": false,
   "petFriendly": true
-}
+}```
+---
 
 ## 🧠 Scoring Logic
 
